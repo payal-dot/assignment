@@ -1,0 +1,3 @@
+export const LOAD_COUNTRIES = 'LOAD_COUNTRIES';
+export const SELECT_ITEM = 'SELECT_ITEM';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
